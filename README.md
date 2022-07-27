@@ -1,5 +1,5 @@
 # Bot para o GeforceNow (serviço de  streaming de jogos em nuvem) <br>
-<h1>Prós:</h1><br>
+<h4>Prós:</h4><br>
 Funciona!<br>
 
 <br>
